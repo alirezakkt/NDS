@@ -20,8 +20,8 @@ max_candles = 100
 fetch_interval = 60
 
 # Telegram bot configuration
-TELEGRAM_TOKEN = '7588980852:AAF1iW_4tcU4K-MsbCMklXXFVLYucK0DAho'
-CHAT_ID = '839653783'
+TELEGRAM_TOKEN = '!'
+CHAT_ID = '!'
 
 # Function to send notification to Telegram
 def send_notification(message):
